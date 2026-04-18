@@ -1,0 +1,10 @@
+{
+  "version": "2.1",
+  "date": "2026-04-18",
+  "changelog": "Système RAG actif, cache conversationnel, reconnaissance vocale",
+  "requires_restart": true,
+  "knowledge_url": "",
+  "prompt_update": "",
+  "model_url": "",
+  "checksum": ""
+}
